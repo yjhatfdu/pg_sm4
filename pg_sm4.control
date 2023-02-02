@@ -1,0 +1,5 @@
+# hello_ext extension
+comment = 'sm4 encrypt/decrypt'
+default_version = '1.0'
+module_pathname = '$libdir/pg_sm4'
+relocatable = true
